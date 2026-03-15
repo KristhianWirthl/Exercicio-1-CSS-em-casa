@@ -3,4 +3,30 @@
 .container {
     font-family: Arial, sans-serif;
     padding: 20px;
+    background-color: green;
+}
+
+.cabecalho {
+ background-color: #FF1920;
+ text-align: center;
+}
+
+
+.titulo{
+    color: lightblue;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.subtitulo{
+    color: darkblue;
+}
+
+.conteudo{
+    background-color: aquamarine;
+    color:gold;
+}
+
+.conteudo h1{
+    color:magenta;
 }
